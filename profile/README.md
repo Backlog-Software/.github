@@ -1,10 +1,10 @@
-# Backlog Software
+# Backlog Software ![backlog logo](https://avatars.githubusercontent.com/u/111088996?s=25&u=bf4bf76e33a79f000610c25d91b1091219b1db2f&v=4)
 
-**We Are Backlog Software!** a diverse group of young developers with mixed expertise in the MERN stack
+We Are **Backlog Software!** a diverse group of young developers with mixed expertise in the MERN stack 
 
 ---
 
-## Team members
+## Organization members
 
 1. [Ahmad Abu-Ali](https://github.com/AhmedAbuAli)
 
